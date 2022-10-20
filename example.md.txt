@@ -1,4 +1,5 @@
-checkfirst line
+checkfirst line used for pull request test
 second line
 third line
 forth line
+writ now working in middle
